@@ -1,0 +1,46 @@
+html
+{
+	background-color: gray;
+}
+
+body
+{
+	background-color: rgb(186 186 186);
+	margin: 5px 10% 5px 10%;
+}
+
+
+/*Image*/
+	.Epaules
+		{
+			text-align: center;
+			background-color: rgb(51 214 255);
+			color: black;
+			font-size: 1.5em;
+			border: 5px gray;
+			border-radius: 10px / 10px;
+			box-shadow: 6px 6px 15px black;					
+		}
+
+
+		#PikePushUp
+		{
+			borde: 3px solid yellow;
+			justify-content: center;
+			margin: auto;
+			width: 350px; 
+			height: 340px;
+		}		
+
+
+/*Texte*/
+	p
+	{
+		background-color: white;
+		font-size: 2em;
+		font-family: ambleregular;
+		text-align: center;
+		margin: 20px 20% 20px 20%;
+		padding: 10px;
+		border-radius: 20px;
+	}
